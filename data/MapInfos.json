@@ -5,6 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"attic ","order":7,"parentId":2,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
 {"id":4,"expanded":true,"name":"outside two","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":true,"name":"outside three","order":3,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":true,"name":"farm map 1","order":4,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"farm map 1","order":4,"parentId":5,"scrollX":832,"scrollY":578},
 {"id":7,"expanded":false,"name":"barn","order":5,"parentId":6,"scrollX":832,"scrollY":640}
 ]
